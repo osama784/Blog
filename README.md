@@ -12,7 +12,7 @@ Nodejs app that handles Blogs CRUD operations with authentication and permission
     -   Expressjs : handling API endpoints.
     -   Mongoose : connecting to MongoDB, creating schemas (Blog and User).
 
--   Additional libraries: express-session, connect-mongo (session store), passport (local authentication using sessions), winston (logging), etc.
+-   Additional libraries: express-session, connect-mongo (session store), passport (local authentication using sessions), winston (logging), zod (validation).
 
 ## General Idea:
 
