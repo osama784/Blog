@@ -44,4 +44,4 @@ Now you have the app on your local machine ❤️
 
 ### Hope you get some benefits from this project❤️
 
-### [My Portfolio](https://portfolio-osama784s-projects.vercel.app/)
+### [My Portfolio](https://osamadoage.vercel.app/)
