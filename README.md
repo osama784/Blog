@@ -33,7 +33,7 @@ run these commands to be able to run the app:
 after that, create your own `.env` file and add the variables `DATABASE_URI` and `SESSION_SECRET` to it, then run:
 
 ```
-> npm build
+> npm run build
 > npm start
 ```
 
